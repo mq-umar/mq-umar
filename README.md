@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Muhammad Umar Qasim</h1>
   <p>
-    <b>IT Engineer · AI Builder · CS Student @ Farmingdale State College (SUNY)</b><br/>
-    Currently: IT Supervisor @ Tony's Tacos · Graduating May 2026 · GPA 3.66
+    <b>IT Supervisor · Systems & Automation Builder · CS Graduate</b><br/>
+    B.S. Computer Programming and Information Systems, Farmingdale State College (SUNY) · May 2026 · GPA 3.66
   </p>
   <p>
     <a href="https://linkedin.com/in/muhammad-qasim02">
@@ -18,9 +18,9 @@
 
 ### What I build
 
-I work at the intersection of **IT infrastructure**, **automation**, and **AI-native development**. My day job is IT Supervisor — I deployed a full Microsoft 365 environment from scratch, built an enterprise identity framework with Entra ID and Intune, and own endpoint management for the whole company. Outside of that I build things: a live production dashboard, an AI productivity platform, automation tooling.
+I work across **IT infrastructure**, **automation**, **dashboards**, **APIs**, and **AI-assisted development**. At work, I manage Microsoft 365, Entra ID, Intune, endpoint support, and business systems. I also build tools that reduce manual work, improve reporting accuracy, and make operational data easier to use.
 
-I use **Claude Code** and **OpenAI Codex** as core development tools, not just assistants. I maintain agent instruction layers, write prompts that shape model behavior at the repo level, and evaluate AI-generated code before it ships.
+I use Claude and OpenAI Codex to help plan, prototype, debug, and speed up development, but I still review, test, and adjust outputs before using them. My focus is practical systems that solve real workflow problems.
 
 ---
 
@@ -36,6 +36,7 @@ I use **Claude Code** and **OpenAI Codex** as core development tools, not just a
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
@@ -44,6 +45,7 @@ I use **Claude Code** and **OpenAI Codex** as core development tools, not just a
   <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -56,36 +58,37 @@ I use **Claude Code** and **OpenAI Codex** as core development tools, not just a
 
 ### Featured Projects
 
-**[tonys-taco-kpi-dashboard.vercel.app](https://tonys-taco-kpi-dashboard.vercel.app)**
+**[Tony's Taco KPI Dashboard](https://tonys-taco-kpi-dashboard.vercel.app)**  
 `Python` `REST APIs` `Google Sheets API` `Vercel Serverless` `JavaScript`
 
-Production operational reporting platform for a multi-location restaurant business. Integrates live POS data exports, loyalty programs, and third-party platforms into a single real-time dashboard. Built with Python data pipelines, automated validation logic, serverless edge deployment, and responsive TV/mobile views. Used by executive leadership daily.
+Production operational reporting platform for a multi-location restaurant business. Built for executive leadership to track operational KPIs across locations. Includes live POS/reporting data, API workflows, Google Sheets API integration, Vercel serverless routing, validation logic, and responsive dashboard views for desktop, TV, and mobile.
 
 ---
 
-**Project Q — AI Productivity Platform**
-`Claude` `OpenAI Codex` `Python` `APIs` `SQLite`
+**Project Q - Personal AI Productivity Platform**  
+`Python` `APIs` `SQLite` `Claude` `OpenAI Codex`
 
-Built using Claude Code and Codex as primary development tools. AI-native productivity platform with LLM API integration, custom prompt workflows, and automated task pipelines. Includes agent instruction layers and repo-level context files that shape model behavior. Deployed internally and actively used for workflow automation.
+Personal AI productivity platform focused on workflow automation, browser task execution, research support, and task management. Built using Claude and OpenAI Codex as AI-assisted development tools for planning, prototyping, backend logic, debugging, and iteration. Includes API-driven workflows, local data storage, local LLM experimentation, and API-based model testing.
 
 ---
 
-**Secure Full-Stack Web Application** *(Capstone)*
-`Java` `PHP` `MySQL` `JavaScript` `HTML/CSS`
+**Secure Full-Stack Web Application** *(Capstone)*  
+`PHP` `MySQL` `JavaScript` `HTML/CSS`
 
-Full-stack CRUD application with OOP design, relational MySQL database, PDO prepared statements for SQL injection prevention, RBAC, and client/server-side validation. Built and presented as senior capstone project at Farmingdale State College.
+Full-stack CRUD application with relational MySQL database design, form-based authentication, PDO prepared statements for SQL injection prevention, RBAC, and client/server-side validation. Built and presented as my senior capstone project at Farmingdale State College.
 
 ---
 
 ### Currently
 
-- IT Supervisor @ Tony's Tacos — owns the full IT stack (M365, Entra ID, Intune, Azure, automations)
-- Building [job-bot](https://github.com/mq-umar/job-bot) — a Playwright-based automated job application tool
-- Completing B.S. in Computer Programming and Information Systems, May 2026
+- IT Supervisor @ Tony's Tacos, managing Microsoft 365, Entra ID, Intune, endpoint support, automation, and reporting systems
+- Starting as a Junior WMS/TMS Support Consultant, focused on SQL troubleshooting, ERP integrations, customer support, and supply chain systems
+- Building [job-bot](https://github.com/mq-umar/job-bot), a Playwright-based automated job application tool
+- Exploring graduate study in artificial intelligence, with UT Austin's online M.S. in Artificial Intelligence as a target program
 - AWS Cloud Foundations certified
 
 ---
 
 <div align="center">
-  <i>Open to software engineering, IT infrastructure, cloud, and AI-related roles in NYC / remote.</i>
+  <i>Open to software engineering, technical consulting, cloud, automation, and AI-related roles in NYC / remote.</i>
 </div>
