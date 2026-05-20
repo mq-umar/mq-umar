@@ -82,7 +82,6 @@ Full-stack CRUD application with relational MySQL database design, form-based au
 ### Currently
 
 - IT Supervisor @ Tony's Tacos, managing Microsoft 365, Entra ID, Intune, endpoint support, automation, and reporting systems
-- Starting as a Junior WMS/TMS Support Consultant, focused on SQL troubleshooting, ERP integrations, customer support, and supply chain systems
 - Building [job-bot](https://github.com/mq-umar/job-bot), a Playwright-based automated job application tool
 - Exploring graduate study in artificial intelligence, with UT Austin's online M.S. in Artificial Intelligence as a target program
 - AWS Cloud Foundations certified
