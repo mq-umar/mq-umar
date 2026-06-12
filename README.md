@@ -1,93 +1,127 @@
 <div align="center">
-  <h1>Muhammad Umar Qasim</h1>
-  <p>
-    <b>IT Supervisor · Systems & Automation Builder · CS Graduate</b><br/>
-    B.S. Computer Programming and Information Systems, Farmingdale State College (SUNY) · May 2026 · GPA 3.66
-  </p>
-  <p>
-    <a href="https://linkedin.com/in/muhammad-qasim02">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:mq.umar55@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+
+# Umar Qasim
+
+**Software Engineer · AI Systems Builder · Founder @ QT3K Inc**
+
+B.S. Computer Programming & Information Systems, Farmingdale State College (SUNY) · May 2026 · GPA 3.66
+M.S. Artificial Intelligence, University of Texas at Austin · Starting August 2026
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umarqasim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mq.umar55@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tonys-taco-kpi-dashboard.vercel.app)
+
 </div>
 
----
+-----
 
-### What I build
+## What I Build
 
-I work across **IT infrastructure**, **automation**, **dashboards**, **APIs**, and **AI-assisted development**. At work, I manage Microsoft 365, Entra ID, Intune, endpoint support, and business systems. I also build tools that reduce manual work, improve reporting accuracy, and make operational data easier to use.
+I build production AI systems, automation pipelines, and data platforms that solve real operational problems — not demos, not tutorials. Things that run in production with real data and real consequences when they break.
 
-I use Claude and OpenAI Codex to help plan, prototype, debug, and speed up development, but I still review, test, and adjust outputs before using them. My focus is practical systems that solve real workflow problems.
+Currently: founder of **QT3K Inc**, a boutique AI products and services company. I also build in public — AutoApply, Loopback, and the KPI Dashboard below are all live or actively deployed.
 
----
+I use **Cursor** and **Claude Code** as my primary development toolchain. AI drives first drafts; I own review, validation, and everything that ships.
 
-### Tech Stack
+-----
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-</p>
+**Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
----
+**Frontend & Backend**
 
-### Featured Projects
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**[Tony's Taco KPI Dashboard](https://tonys-taco-kpi-dashboard.vercel.app)**  
-`Python` `REST APIs` `Google Sheets API` `Vercel Serverless` `JavaScript`
+**AI & LLM**
 
-Production operational reporting platform for a multi-location restaurant business. Built for executive leadership to track operational KPIs across locations. Includes live POS/reporting data, API workflows, Google Sheets API integration, Vercel serverless routing, validation logic, and responsive dashboard views for desktop, TV, and mobile.
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
----
+**Cloud & DevOps**
 
-**Project Q - Personal AI Productivity Platform**  
-`Python` `APIs` `SQLite` `Claude` `OpenAI Codex`
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Personal AI productivity platform focused on workflow automation, browser task execution, research support, and task management. Built using Claude and OpenAI Codex as AI-assisted development tools for planning, prototyping, backend logic, debugging, and iteration. Includes API-driven workflows, local data storage, local LLM experimentation, and API-based model testing.
+-----
 
----
+## Featured Projects
 
-**Secure Full-Stack Web Application** *(Capstone)*  
+### 🔁 [Loopback — Voice AI QA Platform](https://github.com/mq-umar)
+
+`TypeScript` `Python` `OpenAI` `Anthropic` `PostgreSQL` `pgvector`
+
+Voice AI quality assurance platform. Every call an AI agent takes gets automatically scored by an LLM against a weighted rubric, failures cluster by semantic similarity using pgvector and OpenAI embeddings, and a weekly report surfaces the top failure patterns with concrete prompt fix suggestions.
+
+Production stack: HMAC-validated webhook ingestion, Inngest background jobs, Zod schema enforcement, Stripe usage-based billing, multi-tenant row-level security, Promptfoo regression testing. Built entirely independently.
+
+> Found that pure spec-driven LLM scoring drifts on edge cases — added schema validation, calibration loops from human overrides, and regression testing to fix it. The spec is one component in the architecture, not the architecture.
+
+-----
+
+### 📊 [Tony’s Taco KPI Dashboard](https://tonys-taco-kpi-dashboard.vercel.app)
+
+`Python` `TypeScript` `REST APIs` `Google Sheets API` `SQL` `Vercel`
+
+Live production reporting platform for a 4-location restaurant group. Python ETL backend ingesting data from Toast POS and Google Sheets, SQL data model normalizing conflicting schemas across locations, and a React/Next.js dashboard used daily by ownership.
+
+Replaced a manual process costing **$17,000/year**. Designed, built, deployed, and maintained solo.
+
+-----
+
+### 🤖 [AutoApply — AI Job Application Bot](https://github.com/mq-umar/job-bot)
+
+`Python` `OpenAI` `Claude` `Playwright` `Next.js` `Supabase`
+
+End-to-end agentic pipeline: parses resumes into structured profiles, scores job fit across skills, experience, location, and salary, generates ATS-optimized responses, autofills forms via Playwright, detects duplicates and scams, and tracks every submission through a real-time dashboard.
+
+Human review required before anything sensitive goes out — added after running without it and watching the model confidently answer questions it should have flagged.
+
+-----
+
+### 📈 EDGAR Amendment Signal Platform
+
+`Python` `SQL` `Supabase` `Alpaca` `Vercel`
+
+Quantitative trading signal platform that detects semantic deltas between SEC EDGAR filings and their amendments — surfacing statistically significant signals that precede price movements. Async Python ingestion worker, point-in-time filing database, Fama-French-Carhart factor validation, Alpaca paper trading integration with a t-stat ≥ 3.0 statistical gate.
+
+-----
+
+### 🔐 Secure CRUD Web Application *(Capstone)*
+
 `PHP` `MySQL` `JavaScript` `HTML/CSS`
 
-Full-stack CRUD application with relational MySQL database design, form-based authentication, PDO prepared statements for SQL injection prevention, RBAC, and client/server-side validation. Built and presented as my senior capstone project at Farmingdale State College.
+Full-stack application with relational database design, form-based authentication, PDO prepared statements preventing SQL injection, RBAC, and client/server-side validation. Senior capstone at Farmingdale State College.
 
----
+-----
 
-### Currently
+## Currently
 
-- IT Supervisor @ Tony's Tacos, managing Microsoft 365, Entra ID, Intune, endpoint support, automation, and reporting systems
-- Building [job-bot](https://github.com/mq-umar/job-bot), a Playwright-based automated job application tool
-- Exploring graduate study in artificial intelligence, with UT Austin's online M.S. in Artificial Intelligence as a target program
-- AWS Cloud Foundations certified
+- **Founder & AI Engineer** @ QT3K Inc — building AI products and services for clients
+- **Software Engineer** @ Tony’s Tacos — production AI, automation, and reporting systems
+- **Starting M.S. in Artificial Intelligence** @ UT Austin, August 2026
+- **Claude Certified Architect – Foundations (CCA-F)** · Anthropic
+- **AWS Academy Cloud Foundations** certified
 
----
+-----
 
 <div align="center">
-  <i>Open to software engineering, technical consulting, cloud, automation, and AI-related roles in NYC / remote.</i>
+  <i>Open to Software Engineering, AI/ML Engineering, and technical consulting roles · NYC metro, Long Island, and remote</i>
 </div>
