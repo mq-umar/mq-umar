@@ -18,7 +18,7 @@ M.S. Artificial Intelligence, University of Texas at Austin · Starting August 2
 
 I build production AI systems, automation pipelines, and data platforms that solve real operational problems — not demos, not tutorials. Things that run in production with real data and real consequences when they break.
 
-Currently: founder of **QT3K Inc**, a boutique AI products and services company. I also build in public — AutoApply, Loopback, and the KPI Dashboard below are all live or actively deployed.
+Currently: founder of **QT3K Inc**, a boutique AI products and services company delivering custom AI tools and data platforms for clients end-to-end.
 
 I use **Cursor** and **Claude Code** as my primary development toolchain. AI drives first drafts; I own review, validation, and everything that ships.
 
@@ -131,7 +131,7 @@ Full-stack application with relational database design, form-based authenticatio
 
 I build production AI systems, automation pipelines, and data platforms that solve real operational problems — not demos, not tutorials. Things that run in production with real data and real consequences when they break.
 
-Currently: founder of **QT3K Inc**, a boutique AI products and services company. I also build in public — AutoApply, Loopback, and the KPI Dashboard below are all live or actively deployed.
+Currently: founder of **QT3K Inc**, a boutique AI products and services company delivering custom AI tools and data platforms for clients end-to-end.
 
 I use **Cursor** and **Claude Code** as my primary development toolchain. AI drives first drafts; I own review, validation, and everything that ships.
 
