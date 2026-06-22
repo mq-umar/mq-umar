@@ -20,8 +20,6 @@ I build production AI systems, automation pipelines, and data platforms that sol
 
 Currently: founder of **QT3K Inc**, a boutique AI products and services company delivering custom AI tools and data platforms for clients end-to-end.
 
-I use **Cursor** and **Claude Code** as my primary development toolchain. AI drives first drafts; I own review, validation, and everything that ships.
-
 -----
 
 ## Tech Stack
